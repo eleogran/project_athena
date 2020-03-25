@@ -16,3 +16,9 @@ First parameter is the country, second parameter is the starting date in the for
 $ run_model.py Italy 2/18/20
 
 Figure template: Figure_1.png
+
+# world_population_2020.csv
+
+Data of world population by country in 2020. 
+
+Downloaded from: https://data.worldbank.org/indicator/SP.POP.TOTL
