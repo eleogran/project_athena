@@ -1,3 +1,5 @@
 # project_athena
 
-My contribution to the project Athena, which aims at analysing the data of the COVID-19 spread and describe the epidemiological model through working hypotheses and deliverable products.
+My contribution to the project Athena, which aims at analysing the data of the COVID-19 spread and describe the epidemiological model through working hypotheses and deliverable products:
+
+https://github.com/alexander-stage/athena/blob/master/kick-off.md
